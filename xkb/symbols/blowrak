@@ -22,6 +22,8 @@ xkb_symbols "blowrak" {
     key <AD11> { [     comma,  semicolon, dead_cedilla,  dead_ogonek ]	};
     key <AD12> { [ dead_diaeresis, dead_circumflex, dead_tilde,	asciicircum	]	};
 
+    key <AE04> { [         4,     dollar,      currency,         cent ] };
+
     key <AC01> { [         a,          A,   bracketleft,           AE ]	};
     key <AC02> { [         o,          O,     backslash,           OE ]	};
     key <AC03> { [         e,          E,  bracketright,         cent ]	};
